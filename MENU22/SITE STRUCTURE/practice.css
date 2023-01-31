@@ -1,0 +1,35 @@
+/************Tag Selector***********/
+h1{
+    color: blue;
+}
+
+
+img:hover{
+    background-color: gold;
+}
+
+/************Class Selector***********/
+.d:hover{
+    color: brown;
+    background-color: blueviolet;
+
+}
+.f{
+    color: crimson;
+}
+.k{
+    background-color: blueviolet;
+    border-radius: 100%;
+}
+.y{
+    background-color: green;
+    border-radius: 100%;
+
+}
+.circular{
+    border-radius: 100%;
+}
+/************ID Selector***********/
+#d{
+   color: blue;
+}

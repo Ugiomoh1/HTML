@@ -1,0 +1,140 @@
+*{
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: whitesmoke;
+}
+#container{
+    background-color: rosybrown ;
+    height: 1300px; ;
+    width:90% ;
+    margin: 0 auto;
+}
+header{
+    height: 300px; ;
+    width: 100%;
+    background-color: green;
+}
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    color: white;
+
+}
+
+section{
+    height: 800px; 
+    width:100% ;
+    background-color: limegreen ;
+}
+.UG{
+    height: 100%;
+    width:33.3% ;
+    background-color: black;
+    float: left;
+}
+.DA{
+    height: 100%;
+    width:33.3% ;
+    background-color: cyan;
+    float: left;
+
+}
+.OS{
+    height: 100%;
+    width:33.4% ;
+    background-color: darkgoldenrod;
+    float: right;
+
+}
+.os1{
+    height: 33.3%;
+    width:100% ;
+    background-color: #fff;
+    
+}
+.os2{
+    height: 33.3%;
+    width: 100% ;
+    background-color: red;
+}
+.os3{
+    height: 33.4%;
+    width: 100% ;
+    background-color: #fff;
+}
+.DA1{
+    height: 33.3%;
+    width:100% ;
+    background-color: #fff;
+    
+}
+.DA2{
+    height: 33.3%;
+    width: 100% ;
+    background-color: red;
+}
+.DA3{
+    height: 33.4%;
+    width: 100% ;
+    background-color: #fff;
+}
+footer{
+    height: 150px ;
+    width:100% ;
+    background-color: grey ;
+}
+.os1A{
+    float: left;
+    height:100% ;
+    width: 50%;
+    background-color: green;
+}
+.os1B{
+    height:100% ;
+    width: 50%;
+    background-color: black;
+    float: right;
+}
+.os1B .os1B1{
+    height:33.3%;
+    width:100%;
+    background-color: blue;
+
+}
+.os1B1 p{
+    text-overflow: clip;
+    word-wrap: break-word;
+    overflow: hidden;
+    
+}
+.os1B .os1B2{
+    height:33.3% ;
+    width: 100%;
+    background-color: yellow;
+    
+}
+.os1B .os1B3{
+    height:33.3% ;
+    width: 100%;
+    background-color: black;
+    
+}
+h1{
+    color: black;
+    text-align: center;
+    padding: 100px;
+    tex
+    
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    padding-top: 15px;
+    
+
+}
+nav ul

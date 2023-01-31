@@ -1,0 +1,23 @@
+body{
+    background-image: url(./IMGEDU334.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1::before{
+    content: url(./IMG336.jpg);
+}
+p{
+    color: rgb(0, 0, 255);
+}
+h1{
+    color: rgb(250, 3, 3);
+}
+h2::after{
+    content: url(./IMGEDU339.jpg);
+    width: 10px;
+    
+}
+h2{
+    color: darkblue;
+}

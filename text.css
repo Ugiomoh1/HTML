@@ -1,0 +1,39 @@
+h1{
+    color: goldenrod;
+}
+h2{
+    color: #abf;
+}
+h6{
+    color: #adf235;
+}
+.a:hover{
+    width: 300px;
+    border: 1px dotted;
+    color: #adf235;
+    white-space: nowrap;
+    text-overflow: clip;
+}
+.b{
+    width: 300px;
+    border: 1px dotted;
+    color: #adf235;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.c{
+    width: 400px;
+    border: 2px dotted red ;
+    word-break: break-all;
+
+}
+.d{
+    width: 400px;
+    border: 2px dotted ;
+    word-break: keep-all;
+}
+.e{
+    word-wrap: break-word;
+    border: 2px solid red;
+    width: 300px;
+}

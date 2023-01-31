@@ -1,0 +1,11 @@
+
+.testing img{
+    width: 15%;
+    height: 100px;
+    margin-right: 30px;
+    position: fixed;
+    top:  30px;
+    right: 30px;
+    /* background-color:  red; */
+    opacity: 0.4;
+}

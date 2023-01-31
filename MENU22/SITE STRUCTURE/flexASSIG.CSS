@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box ;
+    margin: 0 ;
+    padding: 0 ;
+}
+.flex-container{
+    display: flex;
+    height: 700px;
+    background-color: white;
+}
+.boxA{
+    float: left;
+    background-color: gray;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+.boxB{
+    float: left;
+    background-color: gray;
+    width: 400px;
+    height: 200px;
+    margin: 10PX;
+}
+.boxC{
+    float: left;
+    background-color: gray;
+    width: 400px;
+    height: 200px;
+    margin: 10PX;
+}
+.boxD{
+    float: left;
+    background-color: gray;
+    width: 400px;
+    height: 200px;
+    margin: 10PX;
+}

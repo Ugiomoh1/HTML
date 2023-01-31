@@ -1,0 +1,73 @@
+#box1{
+    height: 600px;
+    width: 600px;
+    background-color: blue;
+    float: left;
+    
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    padding: 200px;
+    float:right;
+}
+
+
+
+.come{
+    border: 10px solid blue;
+    padding-top: 50px;
+}
+.go{
+    border: 2px solid red;
+    padding-bottom:  50px ;
+}
+.go1{
+    margin-bottom: 100px;
+}
+.move{
+    border: dotted red;
+    padding-left: 70px;
+}
+.left{
+    border: dashed red;
+    padding-top: 20px;
+}
+.right{
+    border: double red;
+    padding-bottom: 20px;
+}
+
+
+
+.WHY{
+    border-top: 90px green;
+    
+}
+.WHAT{
+    
+}
+.WHEN{
+    
+}
+.WHERE{
+    
+}
+.WHICH{
+    color: red;
+    border-bottom: solid black 50px;
+}
+.geee{
+    border-radius: 0 50% 0 50%;
+}
+.peee{
+    
+}
+.feee{
+    
+}
+.teeee{
+    
+}

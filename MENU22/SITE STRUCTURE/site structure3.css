@@ -1,0 +1,38 @@
+.container{
+    height: 1600px;
+    width: 90%;
+    background-color: gray;
+    margin: 0 auto;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+}
+.nav{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(5, 5, 75);
+}
+.content{
+    height: 1100px;
+    width: 100%;
+    background-color: rgb(53, 53, 68);
+}
+.content1{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(5, 5, 8);
+}
+
+.content2{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(5, 5, 8);
+}
+
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+}

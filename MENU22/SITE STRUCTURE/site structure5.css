@@ -1,0 +1,106 @@
+#container{
+    height: 1600px;
+    width: 90%;
+    background-color: gray;
+    margin: 0 auto;
+    font-family: cursive;
+}
+*{
+    margin: auto;
+    padding: 0;
+    border: 0;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    /* background-color:blue ; */
+}
+.school-name{
+    text-align: center;
+    padding-top: 15px;
+    /* margin-top: 150px; */
+}
+
+.nav{
+    height: 100px;
+    width: 100%;
+    /* background-color: ; */
+}
+ul{
+    /* display: inline block; */
+    text-align: center;
+
+    
+}
+ul li{
+    display: inline-block;
+    padding: 30px;
+}
+.column{ 
+    height: 1000px;
+    width: 100%;
+    /* background-color:  */
+}
+.column1{
+    height: 100%;
+    width: 25%;
+    /* background-color: */
+    float: left;    
+}
+/* Start .R1 */
+.R1{
+    height: 33.3%;
+    width: 100%;
+    /* background-color: */
+    float: right;
+    
+}
+.R2{
+    height:33.3% ;
+    width: 100%;
+    /* background-color: */
+    float: left
+}
+.R3{
+    height:33.3% ;
+    width: 100%;
+    /* background-color:  */
+    float: left;
+}
+.column2{
+    height: 100%;
+    width: 25%;
+    /* background-color:  */
+    float: left;
+}
+.column3{
+    height: 100%;
+    width: 25%;
+    /* background-color:  */
+    float:right ;
+}
+.column4{
+    height: 100%;
+    width: 25%;
+    /* background-color:  */
+    float:right ;
+}
+.B1{
+    height: 33.3%;
+    width: 100%;
+    /* background-color:  */
+}
+.B2{
+    height: 33.3%;
+    width: 100%;
+    /* background-color:  */
+}
+
+footer{
+    height: 200px;
+    width: 100%;
+    /* background-color: */
+}
+img{
+    width: 300px !important;
+}

@@ -1,0 +1,32 @@
+.container{
+    height: 1600px;
+    width: 90%;
+    background-color: red;
+    margin: 0 auto;
+}
+.header{
+    height: 300px ;
+    width:100% ; 
+    color: green;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: brown;
+}
+.volunteer{
+    height: 600px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.content{
+    height: 500px;
+    width: 100%;
+    background-color: orange;
+}
+
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color:gray ;
+}

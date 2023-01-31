@@ -1,0 +1,31 @@
+/*Adjacent Selector*/
+span+h1{
+    color: blue;
+}
+h1+p{
+    color: blue;
+    background-color: brown;
+}
+p+h1{
+    color: red;
+    background-color: blue;
+}
+
+p+h2 {
+    color: blue;
+}
+h2+p{
+    color: blueviolet;
+}
+p+h3{
+    color: brown;
+}
+h3+p{
+    color: chocolate;
+}
+p+h4{
+    color: green;
+}
+h4+p{
+    color: brown;
+}

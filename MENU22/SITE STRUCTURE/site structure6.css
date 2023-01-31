@@ -1,0 +1,140 @@
+#container{
+   
+    height: 1500px;
+    width: 90%;
+    background-color: gray;
+    margin: 0 auto;
+    font-family: cursive;
+}
+
+header{
+
+    height: 300px;
+    width: 100%;
+    background-color:blue ;
+}
+/* .school-name{
+    text-align: center;
+    padding-top: 15px;
+    /* margin-top: 150px; */
+
+nav{
+    height: 100px;
+    width: 100%;
+    background-color: red ;
+}
+.column{
+    height: 900px;
+    width: 100%;
+    background-color: blue;
+}
+.column1{
+    height: 900px;
+    width: 25% ;
+    background-color: brown;
+    float: left;
+}
+.R1{
+    height: 33.3%;
+    width: 100%;
+    background-color: aqua;
+}
+.R2{
+    height: 33.3%;
+    width: 100%;
+    background-color: black;
+
+}
+.r22{
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+    float: left;
+}
+.r23{
+    height: 100%;
+    width: 50%;
+    background-color: azure;
+    float: right;
+}
+.q1{
+    height: 33.3%;
+    width: 100%;
+    background-color: brown;
+}
+.q2{
+    height:33.3%;
+    width: 100%;
+    background-color: red;
+}
+.q3{
+    height: 33.3%;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+.R3{
+    height: 33.3%;
+    width: 100%;
+background-color: rgb(156, 132, 97);
+}
+.column2{
+    height: 900px;
+    width: 25%;
+    background-color: khaki;
+    float: left;
+}
+.column3{
+    height: 900px;
+    width: 25%;
+    background-color: rgb(51, 47, 14);
+    float: left;
+}
+.column4{
+    height: 900px;
+    width: 25%;
+    background-color: rgb(136, 123, 10);
+    float: right;
+
+}
+.B1{
+    height: 33.3%;
+    width: 100%;
+    background-color: rgb(100, 90, 78);
+}
+.z1{
+    height: 100%;
+    width: 50%;
+    background-color: blueviolet;
+    float: left;
+}
+.Y1{
+    height: 50%;
+    width: 100%;
+   background-color: bisque; 
+}
+.Y2{
+    height: 50%;
+    width: 100% ;
+    background-color: blue;
+}
+.z2{
+    height: 100%;
+    width: 50%;
+    background-color: fuchsia;
+    float: right;
+}
+.B2{
+    height: 33.3%;
+    width: 100%;
+    background-color: rgb(87, 56, 19);
+}
+.B3{
+    height: 33.3%;
+    width: 100%;
+    background-color: rgb(211, 121, 11);
+}
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: aquamarine
+}

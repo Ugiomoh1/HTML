@@ -1,0 +1,11 @@
+section{
+    margin: 3%;
+    width: 27%;
+    display: inline-block;
+    
+}
+body{
+    background-image: url('img51.jpg') ;
+    background-repeat: none;
+    background-size: cover;
+}

@@ -1,0 +1,21 @@
+/*
+h1{
+    color: blue;
+}
+*/
+.school{
+    color: yellow;
+}
+.university{
+    color: green;
+}
+.poly{
+    color: brown
+
+}
+p{
+    font-size: 1.5cm;
+    
+    margin: 20px;
+    padding: 40px;
+}

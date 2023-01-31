@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: red;
+    background-color: brown;
+    font-size: "100px"; 
+}
+img{
+   border-radius: "50px"; 
+}
+p{
+    color: chartreuse;
+}
